@@ -1,4 +1,4 @@
-name: Build ImmortalWrt FUR-602
+name: Build ImmortalWrt FUR-602 Test
 
 on:
   workflow_dispatch:
